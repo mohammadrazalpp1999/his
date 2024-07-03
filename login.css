@@ -1,12 +1,13 @@
 body{
    background-color:#99ccff;
 }
+
 #img1{
    padding:5px 10px;
-   border: solid black ;
+   border: solid black;
    background-color:	#99ccff;
    position: relative;
-   left: 45px;
+   left: 60px;
    top:55px;
 }
 .input1{
@@ -18,4 +19,10 @@ body{
    position: relative;
    left:55px;
    top:80px;
+}
+#input11{
+   border:solid black 2px;
+}
+#input12{
+   border:solid black 2px;
 }
