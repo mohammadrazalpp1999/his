@@ -1,3 +1,21 @@
 body{
    background-color:#99ccff;
 }
+#img1{
+   padding:5px 10px;
+   border: solid black 10px;
+   background-color:	#99ccff;
+   position: relative;
+   left: 45px;
+   top:55px;
+}
+.input1{
+   position: relative;
+   left:55px;
+   top:80px;
+}
+.links{
+   position: relative;
+   left:55px;
+   top:80px;
+}
