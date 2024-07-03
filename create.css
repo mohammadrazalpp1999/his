@@ -1,12 +1,12 @@
 body{
-   background-color:#664d00;
+   background-color:#b6523c;
 }
 #box1{
 padding:5px 10px;
    border: solid black;
    background-color:	#99ccff;
    position: relative;
-   left: 250px;
+   left: 100px;
    top:30px;
 }
 #box2{
@@ -14,7 +14,7 @@ padding:5px 10px;
    border: solid black;
    background-color:	#99ccff;
    position: relative;
-   left: 250px;
+   left: 100px;
    top:35px;
 }
 #box3{
@@ -22,7 +22,7 @@ padding:5px 10px;
    border: solid black;
    background-color:	#99ccff;   
    position: relative;
-   left: 250px;
+   left: 100px;
    top:40px;
 }
 #box4{
@@ -30,7 +30,7 @@ padding:5px 10px;
    border: solid black;
    background-color:	#99ccff;
    position: relative;
-   left: 250px;
+   left: 100px;
    top:45px;
 }
 #box5{
@@ -38,7 +38,7 @@ padding:5px 10px;
    border: solid black;
    background-color:	#99ccff;
    position: relative;
-   left: 250px;
+    left: 100px;
    top:50px;
 }
 #box6{
@@ -46,7 +46,7 @@ padding:5px 10px;
    border: solid black;
    background-color:	#99ccff;
    position: relative;
-   left: 250px;
+   left: 100px;
    top:55px;
 }
 #box7{
@@ -54,29 +54,29 @@ padding:5px 10px;
    border: solid black;
    background-color:	#99ccff;
    position: relative;
-   left: 250px;
+   left: 100px;
    top:60px;
 }
 #btn1{
    position: relative;
-   left: 250px;
+   left: 100px;
    top:52px;
 }
 #para1{
    position: relative;
-   left: 200px;
+   left: 100px;
    top:65px;
 }
 #btn2{
    background-color:blue;
    position:relative;
-   left:300px;
+   left: 100px;
    top:70px;
    padding:10px 15px;
 }
 #rev{
    position:relative;
-   left:10px;
+   left: 10px;
    top:250px;
    color:black;
 }
