@@ -3,7 +3,7 @@ body{
 }
 #img1{
    padding:5px 10px;
-   border: solid black;
+   border: solid black 1px;
    background-color:	#99ccff;
    position: relative;
    left: 45px;
